@@ -1,5 +1,5 @@
 def diamond():
-    z=(int(input("Enter height: ")))
+    z=(int(input("Enter number: ")))
     height=2*z
     for i in range (height):
 	    if(i<=z):
