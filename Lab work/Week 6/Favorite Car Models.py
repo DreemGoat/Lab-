@@ -5,4 +5,3 @@ for x in MyDict:
     print("-",(MyDict[x])[1])
     print("-",(MyDict[x])[2])
     print("")
-print("AAAAAH I NEED A MEDIC BAG")
